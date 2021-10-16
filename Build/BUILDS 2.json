@@ -1,0 +1,16 @@
+{
+"companyName": "Lillyana_Brady",
+"productName": "Lillyana_Brady_z5388097_Assessment_1B_Part_2",
+"productVersion": "0.1",
+"dataUrl": "BUILDS 2.data.unityweb",
+"wasmCodeUrl": "BUILDS 2.wasm.code.unityweb",
+"wasmFrameworkUrl": "BUILDS 2.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
